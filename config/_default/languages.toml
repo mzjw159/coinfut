@@ -2,7 +2,7 @@
   languageName = "English"
   languageCode = "en"
   weight = 2
-  title = "Chirpy"
+  title = "CoinFut"
   [en.params]
     tagline = "A text-focused blog theme"
 
@@ -10,6 +10,6 @@
   languageName = "中文"
   languageCode = "zh-CN"
   weight = 1
-  title = "Chirpy"
+  title = "币见未来"
   [zh-CN.params]
     tagline = "一个专注于文本的博客主题"
