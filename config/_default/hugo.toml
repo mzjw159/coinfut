@@ -1,11 +1,11 @@
 # The base URL for the site.
-baseURL = 'https://geekifan.github.io/chirpy-starter/'
+baseURL = 'https://coinfut.com/'
 # The title of the site.
-title = 'Chirpy'
+title = '币见未来 | CoinFut'
 # Enable Git info › https://gohugo.io/methods/page/gitinfo/
 enableGitInfo = false
 # The default content language.
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 # Whether the default content language is in a subdirectory.
 defaultContentLanguageInSubdir = false
 # Whether the site has CJK language (Chinese, Japanese, Korean).
