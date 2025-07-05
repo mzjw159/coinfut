@@ -9,22 +9,22 @@ author = "Laomai"
   self_host = false
 
 [social]
-  name = "Laomai"
+  name = "CoinFut"
   url = "https://coinfut.com"
 
 [[social.links]]
   type = "github"
-  id = "yourusername"
+  id = "mzjw159"
   icon = "fab fa-github"
 
 [[social.links]]
   type = "twitter"
-  id = "yourhandle"
+  id = "coinfut_com"
   icon = "fab fa-twitter"
 
 [[social.links]]
   type = "email"
-  id = "your.email@example.com"
+  id = "czz.tel@gmail.com"
   icon = "fas fa-envelope"
 
 [[social.links]]
