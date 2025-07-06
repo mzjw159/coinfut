@@ -9,9 +9,8 @@ description: Blockchain is a decentralized ledger technology that powers cryptoc
 ---
 
 ![Blockchain](1600X900-How-does-blockchain-work.jpg)
-{ width="700" height="400" }
 
-**Blockchain is a decentralized and distributed ledger technology** that securely records, verifies, and stores data. Originally developed for Bitcoin transactions, blockchain now powers a wide range of applications beyond cryptocurrencies.
+> **Blockchain is a decentralized and distributed ledger technology** that securely records, verifies, and stores data. Originally developed for Bitcoin transactions, blockchain now powers a wide range of applications beyond cryptocurrencies.
 
 ---
 
