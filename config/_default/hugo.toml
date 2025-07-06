@@ -22,4 +22,4 @@ hasCJKLanguage = true
 # Import the theme.
 [module]
   [[module.imports]]
-    path = "github.com/geekifan/hugo-theme-chirpy"
+    path = "github.com/mzjw159/coinfut"
