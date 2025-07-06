@@ -8,7 +8,7 @@ pin: false
 description: Blockchain is a decentralized ledger technology that powers cryptocurrencies. This article explains its definition, how it works, key features, and future trends.
 ---
 
-# What Is Blockchain?
+![Blockchain](1600X900-How-does-blockchain-work.jpg)
 
 **Blockchain is a decentralized and distributed ledger technology** that securely records, verifies, and stores data. Originally developed for Bitcoin transactions, blockchain now powers a wide range of applications beyond cryptocurrencies.
 
